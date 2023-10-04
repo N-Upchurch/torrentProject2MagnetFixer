@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "torrentProject2.com Magnet Link Fixer",
-  "version": "1.0",
+  "version": "1.1",
 
   "description": "Removes those endless click-through ad pages when clicking magnet link on torrentProject2.com.",
 
